@@ -18,4 +18,3 @@ src/models/      neural network models
 configs/         paths and experiment settings
 reports/         project plan, abstract, experiment log
 results/         small result tables and figures
-
