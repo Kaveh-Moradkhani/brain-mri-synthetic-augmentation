@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+conda-env/
+
+# Data: keep data on Google Drive, not GitHub
+data/
+raw/
+processed/
+generated/
+checkpoints/
+models/
+*.pth
+*.pt
+*.ckpt
+*.tar
+*.zip
+*.nii
+*.nii.gz
+
+# Results that may become large
+results/images/
+results/checkpoints/
+
+# OS
+.DS_Store
